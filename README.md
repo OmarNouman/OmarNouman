@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OmarNouman
-- 👀 I’m interested in making my own team of programmers and managing my own work
 - 🌱 I’m currently learning python and laravel
 - 📫 you can reach me on omarnou229@gmail.com
 
