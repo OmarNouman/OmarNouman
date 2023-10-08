@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OmarNouman
-- 🌱 I’m currently learning python and laravel
+- 🌱 Web developer with 5 years of experience
+- ✨ NodeJS, Laravel and ReactJS
 - 📫 you can reach me on omarnou229@gmail.com
 
 <!---
