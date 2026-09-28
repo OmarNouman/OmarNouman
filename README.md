@@ -20,10 +20,10 @@ Founder of [Luminary Solutions](https://luminary.solutions), a software agency b
 
 ### Recent work
 Most of my work is private client software, including:
-- **LM Quota:** quotation and CRM platform for a Saudi events company
-- **LM Showroom:** multi-tenant car dealership management platform (Laravel)
-- **Majan Express:** logistics management system
-- **Luminary CRM:** AI-powered CRM PWA with an MCP connector (Laravel + Inertia)
+- **Quotation and CRM platform** for an events company in Saudi Arabia
+- **Multi-tenant dealership management platform** for a car showroom (Laravel)
+- **Logistics management system** for a China to Oman shipping company in Oman
+- **Luminary CRM:** my own AI-powered CRM PWA with an MCP connector (Laravel + Inertia)
 
 ### Contact
 📧 omarnou229@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/omar-nouman) · 🌐 [luminary.solutions](https://luminary.solutions)
